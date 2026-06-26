@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tool Báo Cáo (Lõi ĐMC x UI Zbie) - Auto Refresh & Timer
 // @namespace    http://tampermonkey.net/
-// @version      7.1
+// @version      1001
 // @description  Lõi tự động báo cáo, UI Zbie. Đếm giờ, đếm vòng, hiển thị bước, tự động Refresh khi kẹt/đủ vòng.
 // @match        https://www.facebook.com/*
 // @match        https://m.facebook.com/*
