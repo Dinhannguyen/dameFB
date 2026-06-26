@@ -447,7 +447,7 @@
                 <div style="display:flex; align-items:center; gap:8px;">
                     <img class="zbie-avatar" src="${AVATAR_URL}" style="width:30px; height:30px; border-radius:6px; border:2px solid ${NEON_GOLD}; box-shadow:0 0 8px ${NEON_GOLD}; object-fit:cover;">
                     <div style="display:flex; flex-direction:column;">
-                        <span style="font-weight:900; font-size:14px; color:${NEON_PINK}; text-shadow:0 0 8px ${NEON_PINK};">Zbie Nguyễn. </span>
+                        <span style="font-weight:900; font-size:14px; color:${NEON_PINK}; text-shadow:0 0 8px ${NEON_PINK};">Zbie Nguyễn. Binn</span>
                         <span style="font-size:10px; color:#aaa; font-family:monospace;">⏱ T.Gian: <span id="runtime-display" style="color:${TEXT_WHITE};">00:00:00</span></span>
                     </div>
                 </div>
